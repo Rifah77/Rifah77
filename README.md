@@ -17,7 +17,7 @@
    - Member of journalism extracurricular
 
 ## Work Experience:
-#### 1. [Freelancer]| Temanggung `March 2023 - Now`
+#### 1. Freelancer | Temanggung `March 2023 - Now`
    - Editing video
    - Create a product catalog design
    - Create written works (poetry and short stories)
