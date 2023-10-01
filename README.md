@@ -1,4 +1,4 @@
-# Hi there, I'm Rifah Nur Hasanah 
+# Hi there, I'm Rifa
 ## About me:
 - 🔭 I’m currently working as freelancer
 - 🌱 I have skills in Excel, SQL, Python, Looker Studio,  Tableau, and Power BI
