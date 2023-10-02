@@ -51,16 +51,13 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC8C3tWOxNmh0AF_Gd_j_bWg#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/rifah-nur-hasanah#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/rifasan_aka/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
