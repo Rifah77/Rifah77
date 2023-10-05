@@ -49,7 +49,7 @@
 ## Organizational Experience :
 #### 1. Resimen Mahasiswa Universitas Diponegoro | `August 2018 - August 2021`
    - Position : Deputy head of the unit headquarters division
-##### What do you get?
+   ##### What do you get?
    - Character, physical and mental education
    - Learn time management
    - Getting relationships
@@ -58,7 +58,7 @@
    - Learn to adapt to new environments
 #### 2. Himpunan Mahasiswa Jurusan Universitas Diponegoro | `August 2017 - August 2018`
    - Position : Member of the training division
-##### What do you get?
+   ##### What do you get?
    - Getting relationships
    - Train time management
    - Learn public speaking
@@ -67,14 +67,14 @@
    - Being the chief executive of the department's internship program
 #### 3. Keluarga Mahasiswa Diponegoro Temanggung - KAMADITA | `August 2017 - August 2018`
    - Position : Pengembangan Sumber daya Manusia (PSDM)
-##### What do you get?
+   ##### What do you get?
    - Holding programs to increase member familiarity
    - Recruit members to become organizational administrators
    - Establish good relationships with other organizations
    - Conduct training according to field
 #### 4. Ayo Nandur Comunity | `September 2020 - January 2021`
    - Position : Tour guide
-##### What do you get?
+   ##### What do you get?
    - Being a tour guide during student visits
    - Plan visiting activities
    - Collaboration with the agricultural department on student visits
