@@ -123,9 +123,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rifah-nur-hasanah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](rifahnurhasanah@gmail.com)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 
 [webdev]: https://github.com/Rifah77/Rifah77
