@@ -1,7 +1,7 @@
 # Hi there, I'm Rifah Nur Hasanah
 ## About me:
 - 🔭 I’m currently working as freelancer
-- 🌱 I have skills in Excel, SQL, Python, Looker Studio,  Tableau, and Power BI
+- 🌱 I have skills in Microsoft Excel, SQL, Python, Looker Studio,  Tableau, and Power BI
 - 👯 I’m looking to collaborate as data analyst
 - 🤔 I’m looking for suggest for rust project ideas
 - 💬 Ask me about anything
@@ -123,8 +123,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rifah-nur-hasanah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rifasan_aka/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
 
